@@ -1,0 +1,10 @@
+*.~*
+*.obj
+*.lib
+*.dsk
+*.tds
+*.res
+*.exe
+*.zip
+*.db
+mbn.*
